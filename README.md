@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 
 📖###**LANGUAGE**
 <br>
-<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=Hello&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Hello&logoColor=white"/>
