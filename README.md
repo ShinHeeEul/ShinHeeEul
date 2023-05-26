@@ -1,5 +1,17 @@
 # 🌱 **ShinHeeEul**
 
+---
+# ** Introduction **
+## Back-End Junior Engineer with Spring about 2 years
+## Developer with passion
+## I think the most important thing as a developer is consistency and passion to learn.
+## so I tried to do so.(like 1 day 1 commit)
+## My favorite is Game, talking, Health, and make a dish
+
+## Email | sheshe7015@naver.com
+
+---
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinheeEul%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
@@ -20,7 +32,6 @@
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
 #### Other
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
