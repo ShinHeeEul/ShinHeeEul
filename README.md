@@ -1,16 +1,12 @@
-# 🌱 **ShinHeeEul**
+# 🌱 ShinHeeEul Developer with passion<br>
 
----
-# ** Introduction **
-## Back-End Junior Engineer with Spring about 2 years
-## Developer with passion
-## I think the most important thing as a developer is consistency and passion to learn.
-## so I tried to do so.(like 1 day 1 commit)
-## My favorite is Game, talking, Health, and make a dish
+# Introduction
+### Back-End Junior Engineer with Spring about 2 years<br>
+I think the most important thing as a developer is consistency and passion to learn.<br>
+so I tried to do so.(like 1 day 1 commit)<br>
+My favorite is game, talking, Health, and make a dish<br>
 
 ## Email | sheshe7015@naver.com
-
----
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinheeEul%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
 
@@ -37,7 +33,6 @@
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cpp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 
 ## 🧰 **Tools**
 
@@ -45,8 +40,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 # Contacts
 [![Git Hub](https://img.shields.io/badge/GitHub-181717?&style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/ShinHeeEul/)](https://github.com/ShinHeeEul/)
