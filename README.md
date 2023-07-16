@@ -4,7 +4,7 @@
 ### Back-End Junior Engineer with Spring about 2 years<br>
 I think the most important thing as a developer is consistency and passion to learn.<br>
 <br>
-I am studying and thinking about clean coding.<br>
+I am studying and thinking about clean coding & concurrency problem.<br>
 <br>
 My favorite is game, talking, Health, and make a dish.<br>
 
