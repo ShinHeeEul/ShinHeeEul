@@ -40,6 +40,5 @@ My favorite is game, talking, Health, and make a dish.<br>
 # Contacts
 [![Git Hub](https://img.shields.io/badge/GitHub-181717?&style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/ShinHeeEul/)](https://github.com/ShinHeeEul/)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?&style=flat-square&logo=Tistory&logoColor=white&link=https://cookielong.tistory.com/)](https://cookielong.tistory.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:sheshe7015@gmail.com)](mailto:sheshe7015@gmail.com)
 [![Naver](https://img.shields.io/badge/naver-03C75A?&style=flat-square&logo=naver&logoColor=white&link=mailto:sheshe7015@naver.com)](mailto:sheshe7015@naver.com)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shinheeeul/)](https://www.instagram.com/shinheeeul/)
