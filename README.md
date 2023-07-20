@@ -2,11 +2,11 @@
 
 ## Developer with passion
 ### Back-End Junior Engineer with Spring about 2 years<br>
-I think the most important thing as a developer is consistency and passion to learn.<br>
+I think the most important thing as a developer is consistency and passion to learn<br>
 <br>
-I am studying and thinking about clean coding & concurrency problem.<br>
+I am studying and thinking about clean coding & concurrency problem<br>
 <br>
-My favorite is game, talking, Health, and make a dish.<br>
+My favorite is game, talking, Health, and make a dish<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinheeEul%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinHeeEul)](https://github.com/ShinHeeEul/github-readme-stats)
