@@ -4,7 +4,7 @@
 ### Back-End Junior Engineer with Spring about 2 years<br>
 I think the most important thing as a developer is consistency and passion to learn<br>
 <br>
-I am studying and thinking about clean coding & concurrency problem<br>
+I am studying and thinking about clean coding & concurrency problem <br>
 <br>
 My favorite is game, talking, Health, and make a dish<br>
 
@@ -28,7 +28,6 @@ My favorite is game, talking, Health, and make a dish<br>
 
 ### Other
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cpp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 ## 🧰 **Tools**
