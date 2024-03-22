@@ -7,7 +7,6 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsgmldmf)](https://solved.ac/tlsgmldmf/)
 
 # 🔥 Skills
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinHeeEul&layout=compact)-->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 ## 💻 Back-End
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
