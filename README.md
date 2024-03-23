@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinheeEul%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)<br>
 ### 2023.03~2023.08 : [KUIT-1](https://github.com/KUIT-1)
 ### 2023.07~2023.08 : [Softeer Bootcamp-2nd](https://github.com/softeerbootcamp-2nd)
-### hobby : Game, Youtube, Weight Training <br>
+### hobby : Game, Youtube, Weight Training
 ### Final Voca : Consistency, Responsibility
 
 # 🔥 Skills
