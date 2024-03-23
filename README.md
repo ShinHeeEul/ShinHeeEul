@@ -1,16 +1,14 @@
 # 🌱 ShinHeeEul
 ## Back-End Junior Engineer with Spring Boot <br>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinheeEul%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)<br>
 ### 2023.03~2023.08 : [KUIT-1](https://github.com/KUIT-1)
 ### 2023.07~2023.08 : [Softeer Bootcamp-2nd](https://github.com/softeerbootcamp-2nd)
 ### hobby : Game, Youtube, Weight Training <br>
-### Final Voca : Steady, Responsibility
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinheeEul%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinHeeEul)](https://github.com/ShinHeeEul/github-readme-stats)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsgmldmf)](https://solved.ac/tlsgmldmf/)
+### Final Voca : Consistency, Responsibility
 
 # 🔥 Skills
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinHeeEul)](https://github.com/ShinHeeEul/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsgmldmf)](https://solved.ac/tlsgmldmf/)
 ![](./profile-3d-contrib/profile-green-animate.svg)
 ## 💻 Back-End
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=coffeescript&logoColor=white)
