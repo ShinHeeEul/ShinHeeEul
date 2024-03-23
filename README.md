@@ -1,5 +1,8 @@
 # 🌱 ShinHeeEul
 ## Back-End Junior Engineer with Spring Boot <br>
+
+### 2023.03~2023.08 : [KUIT-1](https://github.com/KUIT-1)
+### 2023.07~2023.08 : [Softeer Bootcamp-2nd](https://github.com/softeerbootcamp-2nd)
 ### hobby : Game, Youtube, Weight Training <br>
 ### Final Voca : Steady, Responsibility
 
