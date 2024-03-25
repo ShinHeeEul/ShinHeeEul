@@ -22,5 +22,5 @@
 
 # ✉️ Contacts
 [![Tistory](https://img.shields.io/badge/Tistory-000000?&style=flat-square&logo=Tistory&logoColor=white&link=https://cookielong.tistory.com/)](https://cookielong.tistory.com/)
-[![Naver](https://img.shields.io/badge/naver-03C75A?&style=flat-square&logo=naver&logoColor=white&link=mailto:sheshe7015@naver.com)](mailto:sheshe7015@naver.com)
+[![Naver](https://img.shields.io/badge/naver-03C75A?&style=flat-square&logo=naver&logoColor=white&link=mailto:sheshe7015@naver.com)](javascript:void(mailto:sheshe7015@naver.com))
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shinheeeul/)](https://www.instagram.com/shinheeeul/)
