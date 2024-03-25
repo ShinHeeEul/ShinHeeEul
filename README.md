@@ -18,7 +18,7 @@
 
 ## 🧰 Tools
 ![Intellij](https://img.shields.io/badge/Intellij-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-![Git Hub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+[![Git Hub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://www.github.com/ShinHeeEul)](https://github.com/ShinHeeEul)
 
 # ✉️ Contacts
 [![Tistory](https://img.shields.io/badge/Tistory-000000?&style=flat-square&logo=Tistory&logoColor=white&link=https://cookielong.tistory.com/)](https://cookielong.tistory.com/)
