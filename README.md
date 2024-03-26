@@ -1,11 +1,13 @@
 # 🌱 ShinHeeEul
 ## Back-End Junior Engineer with Spring Boot
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinheeEul%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)<br>
-### 2023.03~2023.08 : [KUIT-1](https://github.com/KUIT-1)
-### 2023.07~2023.08 : [Softeer Bootcamp-2nd](https://github.com/softeerbootcamp-2nd)
-### 2024.03~        : ShinHan Pro Digital Academy 4th
-### Hobby : Game, Youtube, Weight Training
-### Final Voca : Consistency, Responsibility
+| 기간             | 프로그램                            | 링크                                      |
+|------------------|-------------------------------------|-------------------------------------------|
+| 2023.03~2023.08  | KUIT-1                              | [KUIT-1](https://github.com/KUIT-1)      |
+| 2023.07~2023.08  | Softeer Bootcamp-2nd                | [Softeer Bootcamp-2nd](https://github.com/softeerbootcamp-2nd) |
+| 2024.03~         | ShinHan Pro Digital Academy 4th     |                                           |
+
+### Final Voca : With
 
 # 🔥 Skills
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinHeeEul)](https://github.com/ShinHeeEul/github-readme-stats)
