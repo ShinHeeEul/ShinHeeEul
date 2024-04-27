@@ -7,7 +7,7 @@
 | 2023.07~2023.08  | Softeer Bootcamp-2nd                | [Softeer Bootcamp-2nd](https://github.com/softeerbootcamp-2nd) |
 | 2024.03~         | ShinHan Pro Digital Academy 4th     |                                           |
 
-### Final Voca : With
+### Final Voca : With, Passion, Steady
 
 # 🔥 Skills
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinHeeEul)](https://github.com/ShinHeeEul/github-readme-stats)
