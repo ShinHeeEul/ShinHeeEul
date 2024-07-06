@@ -8,6 +8,11 @@
 | 2024.03~         | ShinHan Pro Digital Academy 4th     |                                           |
 
 ### Final Voca : With, Passion, Responsibility
+# 🥇 My Best Project
+| 기간             | 프로젝트 명                            | 좋아하는 이유                                      |
+|------------------|-------------------------------------|-------------------------------------------|
+| 2023.07~2023.08  |현대 자동차 내 차 만들기 사이트 개선 프로젝트  |         |
+| 2024.05~2023.06  | SNS 검색 추이와 주가 추이를 비교해주는 사이트 - 칫쏠| |
 
 # 🔥 Skills
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinHeeEul)](https://github.com/ShinHeeEul/github-readme-stats)
