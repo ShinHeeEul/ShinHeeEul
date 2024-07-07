@@ -33,7 +33,7 @@
   - **팀에 맞는 협업 방법**을 고민하고 적용한 프로젝트
   - **기술적 토론의 즐거움**을 알려준 프로젝트
 
-## <a href="https://github.com/CheatSOL"><img src="https://github.com/ShinHeeEul/ShinHeeEul/assets/83682424/c2c60ff7-0a0c-4fb7-b685-850232be5c3f" style="width: 40px; vertical-align: middle;">   칫쏠</a>  - SNS 검색 추이와 주가 추이 비교 분석 사이트
+## <a href="https://github.com/CheatSOL"><img src="https://github.com/ShinHeeEul/ShinHeeEul/assets/83682424/c2c60ff7-0a0c-4fb7-b685-850232be5c3f" style="width: 40px; vertical-align: middle;">   칫쏠</a> - 검색어와 연관된 주식과 SNS 검색량 추이를 분석하는 사이트
 
 <div>
     <h3># 인프라 # 풀 스택 # 캐싱 # 코드 분석 # 리팩토링 # 부하 테스트 <a href="https://github.com/CheatSOL/.github/wiki"> # 위키 관리 </a> </h3>
