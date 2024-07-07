@@ -1,6 +1,10 @@
 # 🌱 신희을
 ## 같이 고민하고 같이 성장하는 백엔드 개발자 신희을입니다!
 
+### 나를 표현하는 단어 : 책임감 있게, 다 함께, 열정적으로 
+### 자주 듣는 말 : 책임감 있다, 늘 친절하게 도와준다, 에러 해결을 잘한다
+<br>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinheeEul%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
 
 | 기간             | 프로그램                            | 링크                                      |
@@ -9,8 +13,6 @@
 | 2023.07~2023.08  | 현대 자동차 그룹 주관 소프티어 부트캠프 2기 | [Softeer Bootcamp-2nd](https://github.com/softeerbootcamp-2nd) |
 | 2024.03~ NOW     |신한 투자 증권 주관 프로 디지털 아카데미 4기    |                                           |
 
-### 나를 표현하는 단어 : 책임감 있게, 다 함께, 열정적으로 
-### 자주 듣는 말 : 책임감 있다, 늘 친절하게 도와준다, 에러 해결을 잘한다
 <br>
 
 # 🥇 가장 좋아하는 프로젝트
