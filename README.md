@@ -69,7 +69,7 @@
 
 # 📶 기술 스텟
 [![ShinHeeEul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinHeeEul)](https://github.com/ShinHeeEul/github-readme-stats)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsgmldmf)](https://solved.ac/tlsgmldmf/)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsgmldmf)](https://solved.ac/tlsgmldmf/)
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
