@@ -1,8 +1,8 @@
 # 🌱 신희을
 ## 같이 고민하고 같이 성장하는 백엔드 개발자입니다!
 
-### 나를 표현하는 단어 : 책임감 있게, 다 함께, 열정적으로 
-### 자주 듣는 말 : 책임감 있다, 늘 친절하게 도와준다, 오류 해결을 잘한다
+### 나를 표현하는 단어 : 다 함께, 열정적으로 
+### 자주 듣는 말 : 책임감 있다, 늘 친절하게 도와준다
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinheeEul%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
