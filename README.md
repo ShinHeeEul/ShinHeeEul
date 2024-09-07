@@ -36,7 +36,7 @@
 ## <a href="https://github.com/CheatSOL"><img src="https://github.com/ShinHeeEul/ShinHeeEul/assets/83682424/c2c60ff7-0a0c-4fb7-b685-850232be5c3f" style="width: 40px; vertical-align: middle;">   칫쏠</a> - 검색어와 연관된 주식 추이와 SNS 검색량 추이를 비교 분석하는 사이트
 
 <div>
-    <h3># 인프라 # 풀 스택 # 캐싱 # 코드 분석 # 리팩토링 # 부하 테스트 <a href="https://github.com/CheatSOL/.github/wiki"> # 위키 관리 </a> </h3>
+    <h3># 인프라 # 풀 스택 # 캐싱 # 코드 분석 # 리팩토링 # 공동의 목표 # 부하 테스트 <a href="https://github.com/CheatSOL/.github/wiki"> # 위키 관리 </a> </h3>
 </div>
 
 
