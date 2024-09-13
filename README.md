@@ -11,7 +11,7 @@
 |------------------|-------------------------------------|-------------------------------------------|
 | 2023.03~2023.08  | KUIT-1                              | [KUIT-1](https://github.com/KUIT-1)      |
 | 2023.07~2023.08  | 현대 자동차 그룹 소프티어 부트캠프 2기 | [Softeer Bootcamp-2nd](https://github.com/softeerbootcamp-2nd) |
-| 2024.03~2024.09 |신한 투자 증권 프로 디지털 아카데미 4기    | [Pda 4th Front Project](https://github.com/CheatSOL)|
+| 2024.03~2024.09 |신한 투자 증권 프로 디지털 아카데미 4기    | [Pda 4th Front Project](https://github.com/CheatSOL) [Pda 4th Back Project](https://github.com/StockmonGo)|
 
 <br>
 
@@ -55,11 +55,11 @@
 
 ## 💻 백엔드
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=coffeescript&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## 🔣 인프라
-![AWS](https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/amazon_web_services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ## 🧰 도구
 ![Intellij](https://img.shields.io/badge/Intellij-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
