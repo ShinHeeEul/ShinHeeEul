@@ -73,7 +73,7 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <a href="https://github.com/doongjun/commitmon">
-  <img alt="commitmon" src="https://commitmon.me/adventure?username=ShinHeeEul&theme=desert&userFetchType=all" width="600px" />
+  <img alt="commitmon" src="https://commitmon.me/adventure?username=ShinHeeEul&theme=grassland&userFetchType=all" width="600px" />
 </a>
 
 
