@@ -15,4 +15,4 @@ jobs:
           REPOSITORY: ShinHeeEul/ShinHeeEul
           CREDLY_USER: ${{ secrets.CREDLY_USER }}
           CREDLY_DIR: data/credly.json
-          BADGE_SIZE: 64
+          BADGE_SIZE: 256
