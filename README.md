@@ -16,7 +16,7 @@
 | 2024.09~2024.10 | 신한 투자 증권 ICT 운영부 인턴 | [Team Project](https://github.com/Zoozoo-Club) |
 | 2025.01~ | 싸피(Ssafy) 13기 |
 <!--START_SECTION:badges-->
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/128x128/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/99ac06f0-d5b6-4f19-9b71-40a4ca3d43a3 "AWS Certified Solutions Architect – Associate")
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/90x90/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/99ac06f0-d5b6-4f19-9b71-40a4ca3d43a3 "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
 
 
