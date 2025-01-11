@@ -5,8 +5,10 @@
 ### 자주 듣는 말 : 책임감 있다, 늘 친절하게 도와준다
 <br>
 
+<!--START_SECTION:badges-->
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/90x90/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/99ac06f0-d5b6-4f19-9b71-40a4ca3d43a3 "AWS Certified Solutions Architect – Associate")
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinheeEul%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
-
+<!--END_SECTION:badges-->
 
 | 기간             | 프로그램                            | 링크                                      |
 |------------------|-------------------------------------|-------------------------------------------|
@@ -15,9 +17,7 @@
 | 2024.03~2024.09 | 신한 투자 증권 프로 디지털 아카데미 4기    | [Pda 4th Front Project](https://github.com/CheatSOL) [Pda 4th Back Project](https://github.com/StockmonGo)|
 | 2024.09~2024.10 | 신한 투자 증권 ICT 운영부 인턴 | [Team Project](https://github.com/Zoozoo-Club) |
 | 2025.01~ | 싸피(Ssafy) 13기 |
-<!--START_SECTION:badges-->
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/90x90/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/99ac06f0-d5b6-4f19-9b71-40a4ca3d43a3 "AWS Certified Solutions Architect – Associate")
-<!--END_SECTION:badges-->
+
 
 
 # 🥇 가장 좋아하는 프로젝트
@@ -79,9 +79,6 @@
 [![ShinHeeEul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinHeeEul)](https://github.com/ShinHeeEul/github-readme-stats)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsgmldmf)](https://solved.ac/tlsgmldmf/)
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-
-
 
 # ✉️ 연락 방법
 [![Tistory](https://img.shields.io/badge/Tistory-000000?&style=flat-square&logo=Tistory&logoColor=white&link=https://cookielong.tistory.com/)](https://cookielong.tistory.com/)
