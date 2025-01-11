@@ -7,6 +7,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinheeEul%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true)](https://hits.seeyoufarm.com)
 
+
 | 기간             | 프로그램                            | 링크                                      |
 |------------------|-------------------------------------|-------------------------------------------|
 | 2023.03~2023.08  | KUIT-1                              | [KUIT-1](https://github.com/KUIT-1)      |
@@ -14,7 +15,18 @@
 | 2024.03~2024.09 | 신한 투자 증권 프로 디지털 아카데미 4기    | [Pda 4th Front Project](https://github.com/CheatSOL) [Pda 4th Back Project](https://github.com/StockmonGo)|
 | 2024.09~2024.10 | 신한 투자 증권 ICT 운영부 인턴 | [Team Project](https://github.com/Zoozoo-Club) |
 | 2025.01~ | 싸피(Ssafy) 13기 |
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+<div class="border-top color-border-secondary pt-3 mt-3 clearfix hide-sm hide-md">
+  <h2 class="mb-2 h4">Badges</h2>
+  <div style="display:flex;justify-content:flex-start;flex-wrap:wrap;margin-bottom:3px;">
+    {{ range .Site.Data.credly.badges }}
+    <a style="margin: 0 10px 10px 0;" href="{{ .href }}" data-badge-title="{{ .title }}">
+      <img alt="{{ .title }}" width="32" height="32" src="{{ .img }}" class="avatar">
+    </a>
+    {{ end }}
+  </div>
+</div>
 <br>
 
 # 🥇 가장 좋아하는 프로젝트
