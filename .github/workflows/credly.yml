@@ -11,7 +11,7 @@ jobs:
       - name: Credly data - Hugo
         uses: kaonmir/credly-crawler@main
         with:
-          GH_TOKEN: ${{ secrets.TOKEN }}
+          GH_TOKEN: ${{ secrets.CREDLY_TOKEN }}
           REPOSITORY: ${{ github.repository_owner }}
           CREDLY_USER: ${{ secrets.CREDLY_USER}}
           CREDLY_DIR: data/credly.json
