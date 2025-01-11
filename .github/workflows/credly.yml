@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Credly data - Hugo
-        uses: kaonmir/credly-crawler@main
+        uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.CREDLY_TOKEN }}
           REPOSITORY: ShinHeeEul/ShinHeeEul
