@@ -13,6 +13,6 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.CREDLY_TOKEN }}
           REPOSITORY: ${{ github.repository_owner }}
-          CREDLY_USER: ${{ secrets.CREDLY_USER}}
+          CREDLY_USER: ${{ secrets.CREDLY_USER }}
           CREDLY_DIR: data/credly.json
           BADGE_SIZE: 32
