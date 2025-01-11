@@ -15,11 +15,10 @@
 | 2024.03~2024.09 | 신한 투자 증권 프로 디지털 아카데미 4기    | [Pda 4th Front Project](https://github.com/CheatSOL) [Pda 4th Back Project](https://github.com/StockmonGo)|
 | 2024.09~2024.10 | 신한 투자 증권 ICT 운영부 인턴 | [Team Project](https://github.com/Zoozoo-Club) |
 | 2025.01~ | 싸피(Ssafy) 13기 |
-
-## 뱃지
 <!--START_SECTION:badges-->
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/128x128/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/99ac06f0-d5b6-4f19-9b71-40a4ca3d43a3 "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
+
 
 # 🥇 가장 좋아하는 프로젝트
 
