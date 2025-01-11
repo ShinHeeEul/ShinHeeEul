@@ -12,7 +12,7 @@ jobs:
         uses: kaonmir/credly-crawler@main
         with:
           GH_TOKEN: ${{ secrets.CREDLY_TOKEN }}
-          REPOSITORY: ${{ github.repository_owner }}
+          REPOSITORY: ShinHeeEul/ShinHeeEul
           CREDLY_USER: ${{ secrets.CREDLY_USER }}
           CREDLY_DIR: data/credly.json
           BADGE_SIZE: 32
