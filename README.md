@@ -77,7 +77,7 @@
 <br>
 
 # 📶 기술 스텟
-<a href="https://github.com/ShinHeeEul">
+<a href="https://github.com/doongjun/commitmon">
   <img alt="commitmon" src="https://commitmon.me/adventure?username=ShinHeeEul&theme=grassland&userFetchType=all" width="600px" />
 </a>
 
