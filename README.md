@@ -14,7 +14,7 @@
 | 2023.07~2023.09  | 현대 자동차 그룹 소프티어 부트캠프 2기 | [Softeer Bootcamp-2nd](https://github.com/softeerbootcamp-2nd) [A4 Fourever](https://github.com/ShinHeeEul/A4-FourEver)|
 | 2024.03~2024.09 | 신한 투자 증권 프로 디지털 아카데미 4기    | [Pda 4th Front Project](https://github.com/CheatSOL) [Pda 4th Back Project](https://github.com/StockmonGo)|
 | 2024.09~2024.10 | 신한 투자 증권 ICT 운영부 인턴 | [Team Project](https://github.com/Zoozoo-Club) |
-| 2025.01~ | 삼성 청년 SW 아카데미(Ssafy) 13기 |
+| 2025.01~2025.07 | 삼성 청년 SW 아카데미(Ssafy) 13기 |
 
 <div class="border-top color-border-secondary pt-3 mt-3">
   <h2 class="mb-2 h4">Badges</h2>
