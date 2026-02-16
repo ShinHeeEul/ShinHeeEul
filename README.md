@@ -45,11 +45,6 @@
 <br>
 
 # 📶 기술 스텟
-<a href="https://github.com/doongjun/commitmon">
-  <img alt="commitmon" src="https://commitmon.me/adventure?username=ShinHeeEul&theme=grassland&userFetchType=all" width="600px" />
-</a>
-
-[![ShinHeeEul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinHeeEul)](https://github.com/ShinHeeEul/github-readme-stats)
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsgmldmf)](https://solved.ac/tlsgmldmf/)
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
